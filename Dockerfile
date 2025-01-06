@@ -1,2 +1,2 @@
 FROM alpine:latest
-CMD ["bash"]
+CMD ["sh"]
